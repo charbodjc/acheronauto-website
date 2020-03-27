@@ -3692,7 +3692,7 @@ input, select, textarea {
 
 				.poptrox-popup .nav-next:before,
 				.poptrox-popup .nav-previous:before {
-					background-size: 50%;
+					background-size: 80%;
 					background-repeat: no-repeat;
 					background-position: center center;
 					margin: 0;
