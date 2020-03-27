@@ -5,78 +5,57 @@
 
 // Duration.
 	$duration: (
-		nav:				0.5s,
-		transition:			0.2s
+		transition:			0.2s,
+		navPanel:			0.5s
 	);
 
 // Size.
 	$size: (
 		border-radius:		4px,
-		border-width:		1px,
-		element-height:		2.5em,
+		element-height:		2.75em,
 		element-margin:		2em,
-		header:				3.25em,
-		gutter:				2.25em
+		navPanel:			275px
 	);
 
 // Font.
 	$font: (
-
-		family:				('Open Sans', Helvetica, sans-serif),
+		family:				('Raleway', Helvetica, sans-serif),
+		family-fixed:		('Courier New', monospace),
+		letter-spacing:		0.11em,
 		weight:				400,
-		weight-bold:		700,
-
-		fixed: (
-			family:			('Courier New', monospace),
-			weight:			400,
-		),
-
-		heading: (
-			family:			('Bitter', serif),
-			weight:			400,
-			weight-bold:	700
-		),
-
-		button: (
-			family:			('Bitter', serif),
-			weight:			400,
-			letter-spacing:	0.25em
-		),
-
-		special: (
-			family:			('Pacifico', cursive),
-			weight:			400
-		)
-
+		weight-bold:		700
 	);
 
 // Palette.
 	$palette: (
-		bg:					#2b2b2b,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(255,255,255,0.75),
-		border:				#ffffff,
-		border-bg:			rgba(255,255,255,0.2),
-		border-bg-alt:		rgba(255,255,255,0.4),
+		bg:					#fff,
+		fg:					#888,
+		fg-bold:			#616161,
+		fg-light:			#a7a7a7,
+		border:				rgba(144,144,144,0.25),
+		border-bg:			rgba(144,144,144,0.075),
+		border2:			rgba(144,144,144,0.5),
+		border2-bg:			rgba(144,144,144,0.2),
 
-		invert: (
-			bg:				#ffffff,
-			fg:				#2b2b2b,
-			fg-bold:		#2b2b2b,
-			fg-light:		rgba(43,43,43,0.25),
-			border:			rgba(43,43,43,0.2),
-			border-bg:		rgba(43,43,43,0.05),
-			border-bg-alt:	rgba(43,43,43,0.1),
+		accent1: (
+			bg:				#cd4f4f,
+			fg-bold:		#ffffff,
+			fg:				mix(#cd4f4f, #ffffff, 25%),
+			fg-light:		mix(#cd4f4f, #ffffff, 40%),
+			border:			rgba(255,255,255,0.25),
+			border-bg:		rgba(255,255,255,0.075),
+			border2:		rgba(255,255,255,0.5),
+			border2-bg:		rgba(255,255,255,0.2)
 		),
 
-		accent: (
-			bg:				#cb565a,
-			fg:				mix(#cb565a, #ffffff, 25%),
+		accent2: (
+			bg:				#292929,
 			fg-bold:		#ffffff,
-			fg-light:		mix(#cb565a, #ffffff, 40%),
-			border:			#ffffff,
-			border-bg:		rgba(255,255,255,0.15),
-			border-bg-alt:	rgba(255,255,255,0.3)
+			fg:				mix(#292929, #ffffff, 25%),
+			fg-light:		mix(#292929, #ffffff, 40%),
+			border:			rgba(255,255,255,0.25),
+			border-bg:		rgba(255,255,255,0.075),
+			border2:		rgba(255,255,255,0.5),
+			border2-bg:		rgba(255,255,255,0.2)
 		)
 	);
