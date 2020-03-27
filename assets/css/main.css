@@ -2078,6 +2078,9 @@ input, select, textarea {
 		.image.rounded img {
 			border-radius: 100%;
 		}
+		.image.logo img {
+			height: 40px;
+		}
 
 /* List */
 
