@@ -3448,7 +3448,7 @@ input, select, textarea {
 			.image.logo img {
 				height: auto;
 				max-width: 50%;
-				margin: -25px 0px 0 -400px
+				margin: -15px 0px 0 -40px
 		}
 
 		/* Basic */
@@ -3739,7 +3739,7 @@ input, select, textarea {
 		/* Logo */
 		.image.logo img {
 			height: auto;
-			max-width: 100%;
+			max-width: 50%;
 			margin: 0 0 0 0
 			}
 
