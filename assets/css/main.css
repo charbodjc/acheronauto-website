@@ -2078,10 +2078,13 @@ input, select, textarea {
 		.image.rounded img {
 			border-radius: 100%;
 		}
-		.image.logo img {
-			height: 100%;
-		}
 
+/* Logo */
+		.image.logo img {
+			height: auto;
+			max-width: 120%;
+			margin: -50px 0px 0 -30px
+		}
 /* List */
 
 	ol {
@@ -3246,7 +3249,7 @@ input, select, textarea {
 			.image.logo img {
 				height: auto;
 				max-width: 100%;
-				margin: -45px 0px 0 -40px
+				margin: -50px 0px 0 -30px
 			}
 
 		/* Basic */
@@ -3291,7 +3294,7 @@ input, select, textarea {
 			.image.logo img {
 				height: auto;
 				max-width: 80%;
-				margin: -45px 0px 0 -35px
+				margin: -50px 0px 0 -30px
 			}
 
 		/* Basic */
@@ -3400,7 +3403,7 @@ input, select, textarea {
 			.image.logo img {
 				height: auto;
 				max-width: 75%;
-				margin: -40px 0px 0 -35px
+				margin: -50px 0px 0 -20px
 			}
 
 		/* Feature */
@@ -3448,7 +3451,7 @@ input, select, textarea {
 			.image.logo img {
 				height: auto;
 				max-width: 60%;
-				margin: -45px 0 0 -20px
+				margin: -50px 0 0 -10px
 		}
 
 		/* Basic */
@@ -3740,7 +3743,7 @@ input, select, textarea {
 		.image.logo img {
 			height: auto;
 			max-width: 50%;
-			margin: -45px 0 0 -10px
+			margin: -50px 0 0 -10px
 			}
 
 		/* Basic */
