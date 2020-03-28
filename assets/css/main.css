@@ -1768,7 +1768,7 @@ input, select, textarea {
 	}
 
 	header.major {
-		margin: 0 0 1.5em 0;
+		margin: 0 0 1em 0;
 		text-transform: uppercase;
 	}
 
@@ -1786,7 +1786,7 @@ input, select, textarea {
 			content: '';
 			display: inline-block;
 			height: 1px;
-			margin: 2em 0 0 0;
+			margin: 1em 0 0 0;
 			position: relative;
 			width: 5em;
 		}
@@ -3674,10 +3674,10 @@ input, select, textarea {
 				-ms-transform: translateX(0);
 				transform: translateX(0);
 			}
-
+/*
 		/* Poptrox */
 
-			.poptrox-popup {
+/*			.poptrox-popup {
 				box-shadow: 0 0.75em 2.5em 0 rgba(0, 0, 0, 0.5);
 				padding-bottom: 0;
 			}
@@ -3699,7 +3699,7 @@ input, select, textarea {
 				}
 
 	}
-
+*/
 /* XSmall */
 
 	@media screen and (max-width: 480px) {
