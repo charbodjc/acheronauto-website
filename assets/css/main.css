@@ -3274,6 +3274,12 @@ input, select, textarea {
 				padding: 2.5em 2.5em 2.5em 2.5em ;
 			}
 
+			.image.logo img {
+				height: auto;
+				max-width: 125%;
+				margin: -5px 0px 0 -30px
+			}
+
 	}
 
 /* Large */
@@ -3376,6 +3382,12 @@ input, select, textarea {
 				padding: 6em 0 4em 0 ;
 			}
 
+			.image.logo img {
+				height: auto;
+				max-width: 100%;
+				margin: -5px 0px 0 -30px
+			}
+
 	}
 
 /* Medium */
@@ -3413,6 +3425,14 @@ input, select, textarea {
 				padding: 4em 0 4em 0 ;
 			}
 
+		
+		.image.logo img {
+			height: auto;
+			max-width: 75%;
+			margin: -5px 0px 0 -30px
+		}
+
+			
 	}
 
 /* Small */
@@ -3471,6 +3491,7 @@ input, select, textarea {
 	.image.logo img {
 		height: auto;
 		max-width: 50%;
+		margin: -25px 0px 0 -40px
 	}
 
 /*
