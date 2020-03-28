@@ -3469,7 +3469,8 @@ input, select, textarea {
 
 	}
 	.image.logo img {
-		height: 40px;
+		height: auto;
+		max-width: 50%;
 	}
 
 /*
