@@ -2780,7 +2780,7 @@ input, select, textarea {
 			border-bottom: 0;
 			box-shadow: none;
 			height: auto;
-			padding: 0 0 0 0;
+			padding: 1.5em 1.5em 1.5em 1.5em;
 			position: static;
 			text-align: left;
 		}
@@ -3328,7 +3328,7 @@ input, select, textarea {
 		/* Wrapper */
 
 			.wrapper {
-				padding: 0 ;
+				padding: 8em 0 6em 0 ;
 			}
 
 		/* Header */
@@ -3462,7 +3462,7 @@ input, select, textarea {
 		/* Wrapper */
 
 			.wrapper {
-				padding: 3em 0 1em 0 ;
+				padding: 4em 0 1.5em 0 ;
 			}
 
 		/* Header */
