@@ -2667,7 +2667,7 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		padding: 8em 0 6em 0 ;
+		padding: 5em 0 3em 0 ;
 	}
 
 		.wrapper.style1 + .wrapper.style1 {
@@ -3328,7 +3328,7 @@ input, select, textarea {
 		/* Wrapper */
 
 			.wrapper {
-				padding: 8em 0 6em 0 ;
+				padding: 5em 0 3em 0 ;
 			}
 
 		/* Header */
