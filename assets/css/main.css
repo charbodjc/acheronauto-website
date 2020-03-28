@@ -2721,7 +2721,7 @@ input, select, textarea {
 			position: absolute;
 			right: 1.25em;
 			top: 0;
-			vertical-align: middle;
+			vertical-align: bottom;
 		}
 
 			#header nav > ul {
@@ -2780,7 +2780,7 @@ input, select, textarea {
 			border-bottom: 0;
 			box-shadow: none;
 			height: auto;
-			padding: 1em 0 1em 0;
+			padding: 0 0 0 0;
 			position: static;
 			text-align: left;
 		}
@@ -2807,7 +2807,7 @@ input, select, textarea {
 
 			#header.alt nav {
 				left: 0;
-				text-align: left;
+				text-align: right;
 				top: 0;
 				width: 100%;
 			}
@@ -3466,7 +3466,7 @@ input, select, textarea {
 			}
 
 		/* Header */
-
+/*
 			body {
 				padding-top: 44px;
 			}
