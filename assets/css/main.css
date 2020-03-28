@@ -3291,7 +3291,7 @@ input, select, textarea {
 			.image.logo img {
 				height: auto;
 				max-width: 100%;
-				margin: -45px 0px 0 -40px
+				margin: -45px 0px 0 -35px
 			}
 
 		/* Basic */
@@ -3400,7 +3400,7 @@ input, select, textarea {
 			.image.logo img {
 				height: auto;
 				max-width: 75%;
-				margin: -45px 0px 0 -40px
+				margin: -45px 0px 0 -30px
 			}
 
 		/* Feature */
@@ -3448,7 +3448,7 @@ input, select, textarea {
 			.image.logo img {
 				height: auto;
 				max-width: 50%;
-				margin: -15px 0px 0 -40px
+				margin: 0 0 0 0
 		}
 
 		/* Basic */
