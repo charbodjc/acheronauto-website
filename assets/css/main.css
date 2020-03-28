@@ -3245,7 +3245,7 @@ input, select, textarea {
 		/* Logo */
 			.image.logo img {
 				height: auto;
-				max-width: 150%;
+				max-width: 100%;
 				margin: -45px 0px 0 -40px
 			}
 
@@ -3290,7 +3290,7 @@ input, select, textarea {
 		/* Logo */
 			.image.logo img {
 				height: auto;
-				max-width: 100%;
+				max-width: 80%;
 				margin: -45px 0px 0 -35px
 			}
 
@@ -3400,7 +3400,7 @@ input, select, textarea {
 			.image.logo img {
 				height: auto;
 				max-width: 75%;
-				margin: -45px 0px 0 -30px
+				margin: -40px 0px 0 -35px
 			}
 
 		/* Feature */
@@ -3447,8 +3447,8 @@ input, select, textarea {
 		/* Logo */
 			.image.logo img {
 				height: auto;
-				max-width: 50%;
-				margin: 0 0 0 0
+				max-width: 60%;
+				margin: -45px 0 0 -20px
 		}
 
 		/* Basic */
@@ -3740,7 +3740,7 @@ input, select, textarea {
 		.image.logo img {
 			height: auto;
 			max-width: 50%;
-			margin: 0 0 0 0
+			margin: -45px 0 0 -10px
 			}
 
 		/* Basic */
