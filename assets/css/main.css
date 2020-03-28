@@ -3740,7 +3740,7 @@ input, select, textarea {
 		.image.logo img {
 			height: auto;
 			max-width: 35%;
-			margin: -1em 0 0 0
+			margin: 0 0 0 0
 			}
 
 		/* Basic */
