@@ -3739,7 +3739,7 @@ input, select, textarea {
 		/* Logo */
 		.image.logo img {
 			height: auto;
-			max-width: 35%;
+			max-width: 100%;
 			margin: 0 0 0 0
 			}
 
