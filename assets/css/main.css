@@ -3062,7 +3062,7 @@ input, select, textarea {
 			transform: scale(1) rotate(360deg);
 		}
 	}
-
+/*
 	.poptrox-popup {
 		-moz-box-sizing: content-box;
 		-webkit-box-sizing: content-box;
@@ -3514,7 +3514,7 @@ input, select, textarea {
 				}
 
 		/* Off-Canvas Navigation */
-
+/*
 			#titleBar {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
