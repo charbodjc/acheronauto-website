@@ -3466,6 +3466,12 @@ input, select, textarea {
 			}
 
 		/* Header */
+
+	}
+	.image.logo img {
+		height: 40px;
+	}
+
 /*
 			body {
 				padding-top: 44px;
