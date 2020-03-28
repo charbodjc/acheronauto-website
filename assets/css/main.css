@@ -3429,7 +3429,7 @@ input, select, textarea {
 				overflow-x: hidden;
 			}
 
-			h2 {
+			p, h2 {
 				font-size: 1em;
 			}
 
@@ -3712,6 +3712,10 @@ input, select, textarea {
 
 			body, input, select, textarea {
 				font-size: 12pt;
+			}
+
+			p, h2 {
+				font-size: 1em;
 			}
 
 		/* Button */
