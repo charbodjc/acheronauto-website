@@ -2079,7 +2079,7 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 		.image.logo img {
-			height: 40px;
+			height: 100%;
 		}
 
 /* List */
